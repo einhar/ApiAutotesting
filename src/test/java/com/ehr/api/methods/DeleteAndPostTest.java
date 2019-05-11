@@ -1,7 +1,7 @@
-package com.ehr.methods;
+package com.ehr.api.methods;
 
-import com.ehr.BaseTest;
-import com.ehr.credentials.CredentialsData;
+import com.ehr.api.BaseTest;
+import com.ehr.api.credentials.CredentialsData;
 import org.apache.commons.codec.binary.Base64;
 import org.apache.http.HttpHeaders;
 import org.apache.http.client.methods.HttpDelete;

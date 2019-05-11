@@ -1,7 +1,7 @@
-package com.ehr.bodyandheaders;
+package com.ehr.api.bodyandheaders;
 
-import com.ehr.BaseTest;
-import com.ehr.ResponseUtils;
+import com.ehr.api.BaseTest;
+import com.ehr.api.ResponseUtils;
 import org.apache.http.Header;
 import org.apache.http.client.methods.HttpGet;
 import org.apache.http.entity.ContentType;

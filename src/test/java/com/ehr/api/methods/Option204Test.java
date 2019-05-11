@@ -1,7 +1,7 @@
-package com.ehr.methods;
+package com.ehr.api.methods;
 
-import com.ehr.BaseTest;
-import com.ehr.ResponseUtils;
+import com.ehr.api.BaseTest;
+import com.ehr.api.ResponseUtils;
 import org.apache.http.client.methods.HttpOptions;
 import org.junit.Test;
 

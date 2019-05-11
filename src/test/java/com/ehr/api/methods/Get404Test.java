@@ -1,6 +1,6 @@
-package com.ehr.methods;
+package com.ehr.api.methods;
 
-import com.ehr.BaseTest;
+import com.ehr.api.BaseTest;
 import org.apache.http.client.methods.HttpGet;
 import org.junit.Test;
 

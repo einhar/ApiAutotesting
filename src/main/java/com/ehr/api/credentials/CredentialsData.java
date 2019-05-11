@@ -1,4 +1,4 @@
-package com.ehr.credentials;
+package com.ehr.api.credentials;
 
 /**
  * Data necessary to execute eg. DeleteAndPost.java

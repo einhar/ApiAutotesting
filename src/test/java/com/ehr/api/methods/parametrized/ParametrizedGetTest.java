@@ -1,4 +1,4 @@
-package com.ehr.methods.parametrized;
+package com.ehr.api.methods.parametrized;
 
 import org.apache.http.client.methods.CloseableHttpResponse;
 import org.apache.http.client.methods.HttpGet;

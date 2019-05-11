@@ -1,4 +1,4 @@
-package com.ehr.entities;
+package com.ehr.api.entities;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
 

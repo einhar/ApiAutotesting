@@ -1,10 +1,10 @@
-package com.ehr.bodyandheaders;
+package com.ehr.api.bodyandheaders;
 
-import com.ehr.BaseTest;
-import com.ehr.ResponseUtils;
-import com.ehr.entities.NotFound;
-import com.ehr.entities.RateLimit;
-import com.ehr.entities.User;
+import com.ehr.api.BaseTest;
+import com.ehr.api.ResponseUtils;
+import com.ehr.api.entities.NotFound;
+import com.ehr.api.entities.RateLimit;
+import com.ehr.api.entities.User;
 import org.apache.http.client.methods.HttpGet;
 import org.junit.Test;
 

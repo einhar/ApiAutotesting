@@ -1,7 +1,7 @@
-package com.ehr.bodyandheaders;
+package com.ehr.api.bodyandheaders;
 
-import com.ehr.BaseTest;
-import com.ehr.entities.User;
+import com.ehr.api.BaseTest;
+import com.ehr.api.entities.User;
 import org.apache.http.client.methods.HttpGet;
 import org.apache.http.util.EntityUtils;
 import org.json.JSONObject;
