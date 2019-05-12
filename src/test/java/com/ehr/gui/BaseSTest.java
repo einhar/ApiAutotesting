@@ -26,6 +26,6 @@ public abstract class BaseSTest {
 
     @AfterClass
     public static void closeBrowser() {
-        DriverFactory.closeDriver();
+        //DriverFactory.closeDriver();
     }
 }

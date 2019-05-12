@@ -1,7 +1,5 @@
 package com.ehr.gui.search;
 
-import com.ehr.gui.home.HomePageActController;
-
 public class SearchPage {
 
     private SearchPageActController act;
